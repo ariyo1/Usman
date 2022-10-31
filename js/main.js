@@ -1,0 +1,3 @@
+function mycal(fu) {
+    
+}
